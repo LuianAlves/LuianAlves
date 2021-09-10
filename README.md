@@ -32,6 +32,7 @@
 📗 Conhecimento Básico em Vue.JS
 
 
+🌍 Site Pessoal simples em HTML -> https://luianalves.com.br
 
 ![Snake animation](https://github.com/luianalves/luianalves/blob/output/github-contribution-grid-snake.svg)
 
