@@ -25,7 +25,7 @@
 
   ##
 
-📚 Atualmente estou estudando Laravel e suas funcionalidades ..
+📚 Atualmente estou estudando Laravel e suas funcionalidades, utilizando Templates Frontends da Web ..
 
 🎨 Meu projeto mais recente é um site Ecommerce em inglês/português (Ainda em desenvolvimento)
 
