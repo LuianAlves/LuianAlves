@@ -27,7 +27,7 @@
 
 📚 Atualmente estou estudando Laravel e suas funcionalidades, utilizando Templates Frontend da Web ..
 
-🎨 Meu projeto mais recente é um site Ecommerce em inglês/português (Ainda em desenvolvimento)
+🎨 Meu projeto mais recente é o site <a href="https://www.jrnetcomunicacao.com.br">JRNET Comunicações</a>
 
 📗 Conhecimento Básico em Vue.JS
 
